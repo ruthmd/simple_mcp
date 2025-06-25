@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "file_reader": {
+      "command": "<replace_with_full_path>/simple_mcp/simple-file-reader/run_reader.sh",
+      "env": {}
+    },
+    "crm": {
+      "command": "<replace_with_full_path>/simple_mcp/crm-mcp-server/run_crm.sh",
+      "env": {}
+    }
+  }
+}

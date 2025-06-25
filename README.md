@@ -1,1 +1,1 @@
-# simple_mcp
+# Simple MCP
