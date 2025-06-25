@@ -1,1 +1,1 @@
-# Simple MCP
+# Simple MCP (local)
